@@ -8,6 +8,9 @@ function colocarNaTela(dados){
   document.querySelector(".temp").innerHTML = Math.floor (dados.main.temp) + "°C"
   document.querySelector(".descricao").innerHTML = dados.weather[0].description
   document.querySelector(".icone").src ="http://openweathermap.org/img/wn/" + dados.weather[0].icon + ".png"
+  document.querySelector(".umidade").innerHTML = "umidade: " + dados.main.humidity + "%"
+  
+
 
 
 
