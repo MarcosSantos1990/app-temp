@@ -1,7 +1,6 @@
-<h1 align="center"> Responsividade </h1>
+<h1 align="center"> app-tempo </h1>
 
-<p align="center">
-Projeto exclusivo do Explorer, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+
 
 
 <p align="center">
@@ -11,9 +10,7 @@ Projeto exclusivo do Explorer, promovido pela Rocketseat para ensino de tecnolog
   
 </p>
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
+
 
 <br>
 
